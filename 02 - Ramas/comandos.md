@@ -3,7 +3,7 @@
 Comando para listar las ramas
 git branch
 
-Comando para listar las ramas
+Comando para listar las ramas remotas
 git branch -a
 
 Comando para crear una nueva rama
